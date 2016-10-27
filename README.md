@@ -1,1 +1,1 @@
-# Project for EE202 Digital Circuit: Dorm door control with Arduino 
+# Project for EE202 Digital Circuit: Door control with Arduino 
